@@ -1,0 +1,63 @@
+@media screen and (max-width : 922px) {}
+
+@media screen and (max-width: 576px) {
+    .hero-tagline h1 {
+        line-height: 52px;
+    }
+
+    .img-hero {
+        width: 75%;
+        height: auto;
+    }
+
+    .button-lg-primary {
+        width: 35%;
+        height: auto;
+    }
+
+    h2 {
+        font-size: 30px;
+    }
+
+    .sub-tittle {
+        font-size: 15px;
+    }
+
+    .card-layanan {
+        margin: 15px 0;
+
+    }
+
+    .Produk h2 {
+        margin-bottom: 1px;
+    }
+
+    .Produk .container {
+        margin: 20px 0;
+    }
+
+    #Produk {
+        margin-top: 100px;
+    }
+
+    #Kontak h3 {
+        font-size: 15px;
+        width: 100%;
+    }
+
+    .card-contact {
+        width: 100%;
+        height: auto;
+        padding: 50px 40px;
+        margin-top: 20px;
+    }
+
+    .card-contact h6 {
+        font-size: 15px;
+        line-height: 20px;
+        margin-bottom: 15px;
+    }
+
+}
+
+@media screen and (max-width: 350px) {}
